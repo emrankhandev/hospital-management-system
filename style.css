@@ -1,0 +1,26 @@
+#img{
+    background-image: url('img/slideShow/operation.jpg');
+    margin-top: 9px;
+}
+#appointment{
+    text-align: center;
+    border: 3px solid brown;
+    width: 800px;
+    margin-left: 300px;
+    background-color: beige;
+}
+#legand{
+    background-color: brown;
+}
+#status{
+    border: 1px solid black;
+    padding: 6px;
+}
+#you{
+    border: 1px solid black;
+    padding: 6px;
+}
+#infor{
+    border: 1px solid black;
+    padding: 6px;
+}
